@@ -25,7 +25,7 @@ SECRET_KEY = '=6^gvl^j94cfs(5&s0fe8)6+zage9cu9r^f6q$&l+6^yfbihw^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','multibilal.pythonanywhere.com.']
+ALLOWED_HOSTS = ['127.0.0.1','multibilal.pythonanywhere.com']
 
 
 # Application definition
